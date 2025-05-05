@@ -1,5 +1,7 @@
 {
   "version": "1.0",
   "url": "https://github.com/yefeblgn/minecix-launcher/releases/download/minecix/launcher.zip",
-  "hashlist": "https://raw.githubusercontent.com/yefeblgn/minecix-launcher/main/hashlist.json"
+  "exe": "https://github.com/yefeblgn/minecix-launcher/releases/download/minecix/Launcher.exe",
+  "hashlist": "https://raw.githubusercontent.com/yefeblgn/minecix-launcher/refs/heads/main/hashlist.json",
+  "launcherHash": "7e71ed84f1cf361be8e217dd6d7de010b8aed5d2acb61aa885d6e837f5e36784"
 }
