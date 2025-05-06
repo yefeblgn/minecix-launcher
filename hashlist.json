@@ -1,6 +1,6 @@
 {
   "font.ttf": "29d02f71307e5f9b4c1a0117d2716e810e411c3083daa7322d2caaf0536a0e87",
-  "Launcher.exe": "12516ef114ddfc7cf1ee9a7ae21087957c9f5611c9444de72e220cd0ef707c1b",
+  "Launcher.exe": "ca4edd79e150e48b36b5aa940abec862a92d744696e7e9fe98c47e483d3388d5",
   "Microsoft.Web.WebView2.Core.xml": "6f49076302322377f2932e599375aedbd58f17cfc9ab189193de0201d2bedd0a",
   "Microsoft.Web.WebView2.WinForms.xml": "4b40e49aec5dbda597224f997d57a16645ddc2eb00f31a6329204d1853a2245a",
   "Microsoft.Web.WebView2.Wpf.xml": "8932fe759bb7afd1e0de73682a9577d782048a68b252408e127cf767fc348be4",
@@ -51,7 +51,6 @@
   "files/mods/CreativeCore_FABRIC_v2.13.1_mc1.21.1.jar": "46066233f3cfcae2a4c4029354eb093e83cb83d1466a999d67fa82e36f6466fc",
   "files/mods/do_a_barrel_roll-fabric-3.7.3\u002B1.21.jar": "ce0e586ab1d4af204afd52522bb00c4585952c11c2637d30d02ca0423edca8a4",
   "files/mods/Drip Sounds-0.5.1\u002B1.21.5-Fabric.jar": "14571a95c331da474a8dd1d2eb1ae6749d1db53f47a1bdd71e233b054fc8d2fb",
-  "files/mods/dynamiccrosshair-9.3\u002B1.21.1-fabric.jar": "62683d54e75e67fa05118ee1c4af95578c7fac48086af281e3a8ef420c4c79e0",
   "files/mods/eating-animation-1.21\u002B1.9.72.jar": "0290d5c286dc10bf5d402ed7a28f17af5a06973d6a69ae73c6dcaceae79e5456",
   "files/mods/entity_texture_features_fabric_1.21.1-6.2.9.jar": "55df6b310a2cd378368d5ed627bf60cbd3d2627fc603456a0b6d9b60dc8ba157",
   "files/mods/fabric-api-0.115.5\u002B1.21.1.jar": "81f61a9af10873c8eb32cb8438527882b2e098e80af0da7cd8ed835986b6ff80",
