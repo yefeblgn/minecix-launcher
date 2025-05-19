@@ -1,10 +1,10 @@
 {
-  "lversion": "1.2.4",
-  "mversion": "1.2.4",
+  "lversion": "1.2.5",
+  "mversion": "1.2.5",
   "minecixversion": "1.0",
-  "url": "https://cdn.minecix.com/versions/1.2.4/Launcher.zip",
-  "exe": "https://cdn.minecix.com/versions/1.2.4/Launcher.exe",
+  "url": "https://cdn.minecix.com/versions/1.2.5/Launcher.zip",
+  "exe": "https://cdn.minecix.com/versions/1.2.5/Launcher.exe",
   "hashlist": "https://raw.githubusercontent.com/yefeblgn/minecix-launcher/refs/heads/main/hashlist.json",
-  "launcherHash": "2070dc543897dfabda1413bbcf71055dc14e18997459edc848cfdd6c4b32ea75",
+  "launcherHash": "86169b1f332b777efb8324e00a199c71b85d09ca65aed2df3610c29b7b74c9e5",
   "minecix": "https://cdn.minecix.com/versions/1.0/MineciX.exe"
 }
