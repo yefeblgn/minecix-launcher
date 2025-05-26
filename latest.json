@@ -1,7 +1,7 @@
 {
   "lversion": "1.2.7",
   "mversion": "1.2.7",
-  "minecixversion": "1.1",
+  "minecixversion": "1.0",
   "url": "https://cdn.minecix.com/versions/1.2.7/Launcher.zip",
   "exe": "https://cdn.minecix.com/versions/1.2.7/Launcher.exe",
   "hashlist": "https://raw.githubusercontent.com/yefeblgn/minecix-launcher/refs/heads/main/hashlist.json",
